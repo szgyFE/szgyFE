@@ -1,6 +1,7 @@
 - 👋 Hi, I’m szgy
 - 👓 I’m a yi people
-- 😁😁😁😁😁😁😁😁😁😁😁😁😁😁😁😁😁😁
+- 🚲 I am working as a front-end 
+- ⏱️ 这里主要用于记录我的学习笔记
 
 <!---
 szgyFee/szgyFee is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
